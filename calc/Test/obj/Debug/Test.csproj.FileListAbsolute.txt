@@ -1,0 +1,9 @@
+C:\Users\Student\Faluk\calc\Test\bin\Debug\Test.dll
+C:\Users\Student\Faluk\calc\Test\bin\Debug\Test.pdb
+C:\Users\Student\Faluk\calc\Test\bin\Debug\calc.exe
+C:\Users\Student\Faluk\calc\Test\bin\Debug\nunit.framework.dll
+C:\Users\Student\Faluk\calc\Test\bin\Debug\calc.pdb
+C:\Users\Student\Faluk\calc\Test\bin\Debug\nunit.framework.xml
+C:\Users\Student\Faluk\calc\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Student\Faluk\calc\Test\obj\Debug\Test.dll
+C:\Users\Student\Faluk\calc\Test\obj\Debug\Test.pdb
